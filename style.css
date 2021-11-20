@@ -1,0 +1,108 @@
+.error_alert{
+    
+    outline: none;
+    border: 2px solid red;
+    
+    
+}
+.done_alert{
+    outline: none;
+    border: 2px solid rgb(66, 97, 19);
+}
+/* -------------------------star --------------------------------- */
+
+
+.header{
+    margin: 0 auto;
+    padding: 0;
+}
+.contenir{
+    background-color: rgb(250, 250, 250);
+    margin: 0 auto;
+    padding: 0;
+    width: 850px;
+    height: 396px;
+    border: 2px solid rgb(46, 46, 46);
+}
+.box2{
+    width: 850px;
+    height: 36px;
+    border: 1px solid rgb(59, 59, 59);
+    
+}
+.speed{
+    width: 325px;
+    color: rgb(70, 70, 70);
+    font-weight: normal;
+    margin-bottom: 25px;
+    margin-left: 275px;
+}
+.label{
+    margin-left: 244px;
+}
+.input{
+    margin-right: 23px;
+    color: rgb(70, 70, 70);
+    font-size: 22px;   
+}
+.press{
+    margin-left: 22px;
+    width: 88px;
+    height: 26px;
+    /* border: 2px groove rgb(156, 156, 156); */
+    border-radius: 4px;
+}
+.text{
+    
+    width: 150px;
+    height: 26px;
+    color: rgb(51, 51, 51);
+}
+.kattabox{
+    width: 765px;
+    height: 94px;
+    flex-wrap: wrap;
+    
+    justify-content: space-around;
+    display: flex;
+    margin-left: 45px;
+    margin-top: 34px;
+    
+}
+.person{
+    background-color: rgb(255, 255, 255);
+    width: 160px;
+    border-radius: 6px;
+    height: 122px;
+    border: 2px solid rgb(29, 29, 29);
+    box-shadow: 7px 7px 5px 0px black;
+    -webkit-animation: vibrate-1 0.3s linear infinite both;
+    animation: vibrate-1 0.3s linear infinite both;
+   
+}
+
+.bicycle{
+    box-shadow: 7px 7px 5px 0px black;
+    background-color: rgb(255, 255, 255);
+    width: 160px;
+    border-radius: 6px;
+    height: 122px;
+    border: 2px solid rgb(29, 29, 29);
+}
+.car{
+    box-shadow: 7px 7px 5px 0px black;
+    width: 160px;
+    background-color: rgb(255, 255, 255);
+    height: 122px;
+    border-radius: 6px;
+    border: 2px solid rgb(29, 29, 29);
+    
+}
+.airplen{
+    width: 160px;
+    box-shadow: 7px 7px 5px 0px black;
+    background-color: rgb(255, 255, 255);
+    height: 122px;
+    border-radius: 6px;
+    border: 2px solid rgb(29, 29, 29);
+}
